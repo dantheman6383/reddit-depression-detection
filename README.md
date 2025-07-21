@@ -1,6 +1,6 @@
 # Reddit Depression Symptom Detection
 
-Project based on [this paper](https://drive.google.com/file/d/1upfgKfIJ5JncWoImdmWRqoDxUv2o-MW0/view?usp=sharing).
+This project is based on [this paper](https://drive.google.com/file/d/1upfgKfIJ5JncWoImdmWRqoDxUv2o-MW0/view?usp=sharing).
 
 ## Overview
 Using text data from Reddit posts, train a random forest classifer to predict depression symptoms. Evaluate accuracy using LDA and RoBERTa embeddings. 
